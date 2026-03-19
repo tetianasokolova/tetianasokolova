@@ -1,7 +1,7 @@
 # Hi, I'm Tetiana!
 👩🏼‍💻 I am a Master student in Data Science at University of Zurich, interested in all things data, analytics, and their real-work impact.<br>
 🎓 I recently earned a Bachelor Degree with Honours in Applied Mathematics.<br>
-📊 I’m currently deepening my expertise in applying R to machine learning.<br>
+📊 I’m currently deepening my expertise in applying R and Python to machine learning.<br>
 💡 I’m open to collaborating on projects involving statistical analysis, modeling, and machine learning.
 
 # 💻 Tech Stack:
